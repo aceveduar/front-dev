@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+}
+
+div {
+    background: salmon;
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+}
+
+a {
+    background: rgb(165, 207, 14);
+    margin: 20px;
+}
+
+button {
+    background: rgb(41, 23, 141);
+    width: 200px;
+    height: 200px;
+}
